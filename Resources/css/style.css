@@ -35,6 +35,10 @@ h3{
   background-image: url("../images/TheFlatironBuilding.png");
 }
 
+.footer p{
+  font-size: 11px;
+}
+
 .footer {
   text-align: left;
   background-color: dimgrey;
